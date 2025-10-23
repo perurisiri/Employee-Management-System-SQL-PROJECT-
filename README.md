@@ -1,5 +1,6 @@
 
 👨‍💼 Employee Management System
+
 📖 Introduction
 
 The Employee Management System (EMS) is a SQL-based database project designed to efficiently manage an organization’s employee information, including personal details, job roles, departments, payroll, leaves, and qualifications.
