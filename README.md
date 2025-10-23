@@ -56,23 +56,41 @@ This relational structure allows efficient tracking of employee and department-l
 🧮 Problem Statements / SQL Queries
 #	Query Objective	Description
 1	How many unique employees are currently in the system?	Count of unique employee IDs
+
 2	Which departments have the highest number of employees?	Displays department-wise employee distribution
+
 3	What is the average salary per department?	Calculates average pay across departments
+
 4	Who are the top 5 highest-paid employees?	Lists highest salary earners
+
 5	What is the total salary expenditure across the company?	Computes total payroll amount
+
 6	How many different job roles exist in each department?	Counts unique roles per department
+
 7	What is the average salary range per department?	Analyzes department-level salary trends
+
 8	Which job roles offer the highest salary?	Identifies most lucrative positions
+
 9	Which departments have the highest total salary allocation?	Compares department salary expenses
+
 10	How many employees have at least one qualification listed?	Counts qualified employees
+
 11	Which positions require the most qualifications?	Lists jobs with highest qualification counts
+
 13	Which year had the most employees taking leaves?	Finds the peak leave year
+
 14	What is the average number of leave days per department?	Average leave frequency by department
+
 15	Which employees have taken the most leaves?	Top employees by leave count
+
 16	What is the total number of leave days company-wide?	Total leave days recorded
+
 17	What is the total monthly payroll processed?	Payroll summary by month
+
 18	What is the average bonus given per department?	Department-wise bonus averages
+
 19	Which department receives the highest total bonuses?	Department with top bonus distribution
+
 💡 Key Insights
 
 The highest-paid employee is the Finance Director.
